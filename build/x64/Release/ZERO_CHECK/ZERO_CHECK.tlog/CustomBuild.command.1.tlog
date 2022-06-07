@@ -1,0 +1,10 @@
+^D:\GIT PROJECTS\TEXTUREGRAPH\VENDOR\NFD\BUILD\CMAKEFILES\709437C17787E77D8B4086A968D5C75F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Git Projects/TextureGraph/vendor/nfd" "-BD:/Git Projects/TextureGraph/vendor/nfd/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Git Projects/TextureGraph/vendor/nfd/build/nativefiledialog-extended.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

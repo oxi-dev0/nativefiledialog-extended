@@ -1,0 +1,5 @@
+D:/Git Projects/TextureGraph/vendor/nfd/build/CMakeFiles/INSTALL.dir
+D:/Git Projects/TextureGraph/vendor/nfd/build/CMakeFiles/ALL_BUILD.dir
+D:/Git Projects/TextureGraph/vendor/nfd/build/CMakeFiles/ZERO_CHECK.dir
+D:/Git Projects/TextureGraph/vendor/nfd/build/src/CMakeFiles/nfd.dir
+D:/Git Projects/TextureGraph/vendor/nfd/build/src/CMakeFiles/INSTALL.dir
