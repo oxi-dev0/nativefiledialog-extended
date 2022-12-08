@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Git Projects\TextureGraph\vendor\nfd\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>D:\Git Projects\RPI.Server-Bash-Tool\vendor\nfd\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
